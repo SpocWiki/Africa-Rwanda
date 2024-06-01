@@ -21,7 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- RWA
 - Rwanda
 - رواندا
 - 卢旺达
