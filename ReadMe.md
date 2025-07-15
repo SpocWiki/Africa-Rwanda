@@ -131,10 +131,4 @@ Capital :: [[Provinces~Rwanda/Kigali_City/City/Kigali-City]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Rwanda|Rwanda]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~Central/Rwanda.internal|Rwanda.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~Central/Rwanda.protect|Rwanda.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~Central/Rwanda.private|Rwanda.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~Central/Rwanda.personal|Rwanda.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~Central/Rwanda.secret|Rwanda.secret]] 
+

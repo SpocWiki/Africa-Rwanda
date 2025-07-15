@@ -40,11 +40,18 @@ markerFolder: ./Rwanda~Western/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Rwanda/Counties/Rwanda~Western|Rwanda~Western]] 
-- [[../../../../../../_public/geo/Continent/Africa/Rwanda/Counties/Rwanda~Western.public|Rwanda~Western.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Rwanda/Counties/Rwanda~Western.internal|Rwanda~Western.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Rwanda/Counties/Rwanda~Western.protect|Rwanda~Western.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Rwanda/Counties/Rwanda~Western.private|Rwanda~Western.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Rwanda/Counties/Rwanda~Western.personal|Rwanda~Western.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Rwanda/Counties/Rwanda~Western.secret|Rwanda~Western.secret]] 
+
+### #is_/same_as :: [Rwanda~West](/_Standards/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Rwanda~West.md) 
+
+### #is_/same_as :: [Rwanda~West.public](/_public/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Rwanda~West.public.md) 
+
+### #is_/same_as :: [Rwanda~West.internal](/_internal/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Rwanda~West.internal.md) 
+
+### #is_/same_as :: [Rwanda~West.protect](/_protect/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Rwanda~West.protect.md) 
+
+### #is_/same_as :: [Rwanda~West.private](/_private/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Rwanda~West.private.md) 
+
+### #is_/same_as :: [Rwanda~West.personal](/_personal/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Rwanda~West.personal.md) 
+
+### #is_/same_as :: [Rwanda~West.secret](/_secret/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Rwanda~West.secret.md)
 

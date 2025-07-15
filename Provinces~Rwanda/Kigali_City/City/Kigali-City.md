@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Rwanda/City/Kigali|Kigali]] 
-- [[../../../../../../_public/geo/Continent/Africa/Rwanda/City/Kigali.public|Kigali.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Rwanda/City/Kigali.internal|Kigali.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Rwanda/City/Kigali.protect|Kigali.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Rwanda/City/Kigali.private|Kigali.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Rwanda/City/Kigali.personal|Kigali.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Rwanda/City/Kigali.secret|Kigali.secret]] 
+
+### #is_/same_as :: [Kigali-City](/_Standards/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali_City/City/Kigali-City.md) 
+
+### #is_/same_as :: [Kigali-City.public](/_public/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali_City/City/Kigali-City.public.md) 
+
+### #is_/same_as :: [Kigali-City.internal](/_internal/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali_City/City/Kigali-City.internal.md) 
+
+### #is_/same_as :: [Kigali-City.protect](/_protect/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali_City/City/Kigali-City.protect.md) 
+
+### #is_/same_as :: [Kigali-City.private](/_private/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali_City/City/Kigali-City.private.md) 
+
+### #is_/same_as :: [Kigali-City.personal](/_personal/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali_City/City/Kigali-City.personal.md) 
+
+### #is_/same_as :: [Kigali-City.secret](/_secret/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali_City/City/Kigali-City.secret.md)
+
