@@ -130,5 +130,19 @@ Capital :: [[Provinces~Rwanda/Kigali_City/City/Kigali-City]]
 [geo-lat::-1.94388] 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [ReadMe](/_Standards/Earth/Continent/Africa/Africa~Central/Rwanda/ReadMe.md) 
+
+### #is_/same_as :: [ReadMe.public](/_public/Earth/Continent/Africa/Africa~Central/Rwanda/ReadMe.public.md) 
+
+### #is_/same_as :: [ReadMe.internal](/_internal/Earth/Continent/Africa/Africa~Central/Rwanda/ReadMe.internal.md) 
+
+### #is_/same_as :: [ReadMe.protect](/_protect/Earth/Continent/Africa/Africa~Central/Rwanda/ReadMe.protect.md) 
+
+### #is_/same_as :: [ReadMe.private](/_private/Earth/Continent/Africa/Africa~Central/Rwanda/ReadMe.private.md) 
+
+### #is_/same_as :: [ReadMe.personal](/_personal/Earth/Continent/Africa/Africa~Central/Rwanda/ReadMe.personal.md) 
+
+### #is_/same_as :: [ReadMe.secret](/_secret/Earth/Continent/Africa/Africa~Central/Rwanda/ReadMe.secret.md)
 
