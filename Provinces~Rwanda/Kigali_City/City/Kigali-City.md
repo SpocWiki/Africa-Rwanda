@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kigali-City](/_Standards/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali_City/City/Kigali-City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali_City/City/Kigali-City|Kigali-City]] 
 
-### #is_/same_as :: [Kigali-City.public](/_public/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali_City/City/Kigali-City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali_City/City/Kigali-City.public|Kigali-City.public]] 
 
-### #is_/same_as :: [Kigali-City.internal](/_internal/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali_City/City/Kigali-City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali_City/City/Kigali-City.internal|Kigali-City.internal]] 
 
-### #is_/same_as :: [Kigali-City.protect](/_protect/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali_City/City/Kigali-City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali_City/City/Kigali-City.protect|Kigali-City.protect]] 
 
-### #is_/same_as :: [Kigali-City.private](/_private/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali_City/City/Kigali-City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali_City/City/Kigali-City.private|Kigali-City.private]] 
 
-### #is_/same_as :: [Kigali-City.personal](/_personal/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali_City/City/Kigali-City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali_City/City/Kigali-City.personal|Kigali-City.personal]] 
 
-### #is_/same_as :: [Kigali-City.secret](/_secret/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali_City/City/Kigali-City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali_City/City/Kigali-City.secret|Kigali-City.secret]] 
 

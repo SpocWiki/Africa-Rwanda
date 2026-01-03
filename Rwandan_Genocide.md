@@ -74,3 +74,20 @@ end_time: 1994-07-04T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rwandan%20genocide) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Rwanda/Rwandan_Genocide|Rwandan_Genocide]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Rwanda/Rwandan_Genocide.public|Rwandan_Genocide.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Rwanda/Rwandan_Genocide.internal|Rwandan_Genocide.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Rwanda/Rwandan_Genocide.protect|Rwandan_Genocide.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Rwanda/Rwandan_Genocide.private|Rwandan_Genocide.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Rwanda/Rwandan_Genocide.personal|Rwandan_Genocide.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Rwanda/Rwandan_Genocide.secret|Rwandan_Genocide.secret]] 
+

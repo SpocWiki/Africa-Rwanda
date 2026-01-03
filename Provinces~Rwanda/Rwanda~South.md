@@ -41,17 +41,17 @@ markerFolder: ./Rwanda~Southern/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rwanda~South](/_Standards/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Rwanda~South.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Rwanda~South|Rwanda~South]] 
 
-### #is_/same_as :: [Rwanda~South.public](/_public/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Rwanda~South.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Rwanda~South.public|Rwanda~South.public]] 
 
-### #is_/same_as :: [Rwanda~South.internal](/_internal/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Rwanda~South.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Rwanda~South.internal|Rwanda~South.internal]] 
 
-### #is_/same_as :: [Rwanda~South.protect](/_protect/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Rwanda~South.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Rwanda~South.protect|Rwanda~South.protect]] 
 
-### #is_/same_as :: [Rwanda~South.private](/_private/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Rwanda~South.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Rwanda~South.private|Rwanda~South.private]] 
 
-### #is_/same_as :: [Rwanda~South.personal](/_personal/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Rwanda~South.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Rwanda~South.personal|Rwanda~South.personal]] 
 
-### #is_/same_as :: [Rwanda~South.secret](/_secret/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Rwanda~South.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Rwanda~South.secret|Rwanda~South.secret]] 
 

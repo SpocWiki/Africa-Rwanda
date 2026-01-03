@@ -41,17 +41,17 @@ markerFolder: ./Kigali_City/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kigali](/_Standards/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali|Kigali]] 
 
-### #is_/same_as :: [Kigali.public](/_public/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali.public|Kigali.public]] 
 
-### #is_/same_as :: [Kigali.internal](/_internal/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali.internal|Kigali.internal]] 
 
-### #is_/same_as :: [Kigali.protect](/_protect/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali.protect|Kigali.protect]] 
 
-### #is_/same_as :: [Kigali.private](/_private/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali.private|Kigali.private]] 
 
-### #is_/same_as :: [Kigali.personal](/_personal/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali.personal|Kigali.personal]] 
 
-### #is_/same_as :: [Kigali.secret](/_secret/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Rwanda/Provinces~Rwanda/Kigali.secret|Kigali.secret]] 
 
