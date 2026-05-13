@@ -28,7 +28,7 @@ coordinates: [[Kigali]]
 markerFile: [[Kigali]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

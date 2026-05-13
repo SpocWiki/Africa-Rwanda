@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Rwanda~Western/
 markerFolder: ./Rwanda~Western/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

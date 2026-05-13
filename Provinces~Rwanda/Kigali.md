@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Kigali_City/
 markerFolder: ./Kigali_City/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
